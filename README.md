@@ -160,6 +160,8 @@ Each tile includes:
 #OUTPUT
 
 
+<img width="124" height="362" alt="Image" src="https://github.com/user-attachments/assets/3dacbc30-b740-4a63-b5e1-e0cc7eb021ca" />
+
 ⚙️ SETTING PAGE
 
 
@@ -234,6 +236,9 @@ Display current version
 
 #OUTPUT
 
+<img width="121" height="372" alt="Image" src="https://github.com/user-attachments/assets/bd1b1f5c-5fc4-4234-9a0b-f64e87b69e33" />
+
+
 
 👤 PROFILE PAGE
 
@@ -303,6 +308,9 @@ QR scan or manual entry
 🔄 Sync Devices
 
 #OUTPUT
+
+
+<img width="95" height="347" alt="Image" src="https://github.com/user-attachments/assets/b176d2af-0c78-4689-9183-0e1e0e5ff5be" />
 
 
 🧪 Figma Tips
